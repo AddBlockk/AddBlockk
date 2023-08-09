@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Dmitry Boltach</h1>
+<h1>Hi 👋, I'm Dima Boltach</h1>
 <h3>Frontend developer from Russia</h3>
 
 - 🌱 I’m currently learning **React**
