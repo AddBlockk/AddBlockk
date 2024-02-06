@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **siznaut@gmail.com**
+- 📫 How to reach me **09.09.2005@inbox.ru**
 
 <p align="left">
 </p>
