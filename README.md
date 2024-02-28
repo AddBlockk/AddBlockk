@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Dima Boltach</h1>
 <h3>Frontend developer from Russia</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **09.09.2005@inbox.ru**
+<p>I've been doing commercial development for over a year and a half now. Every day I learn something new in order to become stronger. I am good with people, sociable, motivated and always ready for new challenges and projects. I am confident that my skills and experience will enable me to successfully accomplish any task. At the end, don't forget to remove this phrase, so that the text looks more natural and it is not obvious that it was not written by me personally...</p>
 
 <p align="left">
 </p>
